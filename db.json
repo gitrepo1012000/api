@@ -1,7 +1,9 @@
-[
-  {
-    "AgreementNo": "",
-    "iAgreementSeqNo": "",
-    "szOrgCode": ""
-  }
-]
+{
+  "AccountDetails": [
+    {
+      "AgreementNo": "1",
+      "iAgreementSeqNo": "1",
+      "szOrgCode": "1"
+    }
+  ]
+}
