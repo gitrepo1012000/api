@@ -4,10 +4,10 @@
       "AgreementNo": "1",
       "iAgreementSeqNo": "1",
       "szOrgCode": "1",
-      "rjilAccountNo": "",
-      "rjilPartnerId": "",
-      "BilledOS": "",
-      "BilledOD": ""
+      "rjilAccountNo": "1",
+      "rjilPartnerId": "1",
+      "BilledOS": "1",
+      "BilledOD": "1"
     }
   ]
 }
