@@ -1,9 +1,7 @@
-{
-  "AccountSearch": [
-    {
-      "AgreementNo": "",
-      "iAgreementSeqNo": "",
-      "szOrgCode": ""
-    }
-  ]
-}
+[
+  {
+    "AgreementNo": "",
+    "iAgreementSeqNo": "",
+    "szOrgCode": ""
+  }
+]
