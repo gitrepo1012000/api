@@ -3,7 +3,11 @@
     {
       "AgreementNo": "1",
       "iAgreementSeqNo": "1",
-      "szOrgCode": "1"
+      "szOrgCode": "1",
+      "rjilAccountNo": "",
+      "rjilPartnerId": "",
+      "BilledOS": "",
+      "BilledOD": ""
     }
   ]
 }
