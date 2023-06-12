@@ -9,16 +9,70 @@
       "BilledOS": "1",
       "BilledOD": "1"
     }
-  ],  
+  ],
   "BUCKETDETAILS": [
-  {
-    "sztype": "BUCKET_1", "fbucket0": "174.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
-  },
-  {
-    "sztype": "BUCKET_2", "fbucket0": "185.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
-  },
-  {
-    "sztype": "BUCKET_3", "fbucket0": "196.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
-  }
-]
+    {
+      "sztype": "BUCKET_1",
+      "fbucket0": "174.000",
+      "fbucket1": "0.000",
+      "fbucket2": "0.000",
+      "fbucket3": "0.000",
+      "fbucket4": "0.000",
+      "fbucket5": "0.000",
+      "fbucket6": "0.000",
+      "fbucket7": "0.000"
+    },
+    {
+      "sztype": "BUCKET_2",
+      "fbucket0": "185.000",
+      "fbucket1": "0.000",
+      "fbucket2": "0.000",
+      "fbucket3": "0.000",
+      "fbucket4": "0.000",
+      "fbucket5": "0.000",
+      "fbucket6": "0.000",
+      "fbucket7": "0.000"
+    },
+    {
+      "sztype": "BUCKET_3",
+      "fbucket0": "196.000",
+      "fbucket1": "0.000",
+      "fbucket2": "0.000",
+      "fbucket3": "0.000",
+      "fbucket4": "0.000",
+      "fbucket5": "0.000",
+      "fbucket6": "0.000",
+      "fbucket7": "0.000"
+    }
+  ],
+  "customerDetails": [
+    {
+      "customerseq": 10133,
+      "systemcode": "001",
+      "name": "Vyankatesh RakeshKumar",
+      "homephone": "2223456789",
+      "mobileno": "9087612543",
+      "workphone": "2221234567",
+      "AddressDet": [
+        {
+          "AddLine1": "",
+          "City": "",
+          "State": "",
+          "Zip": ""
+        },
+        {
+          "AddLine1": "",
+          "City": "",
+          "State": "",
+          "Zip": ""
+        },
+        {
+          "AddLine1": "",
+          "City": "",
+          "State": "",
+          "Zip": ""
+        }
+      ]
+    }
+  ]
 }
