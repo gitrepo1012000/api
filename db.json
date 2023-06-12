@@ -75,31 +75,32 @@
   "customerDetails": [
     {
       "customerseq": 10133,
+	  "IADDRESSSEQ": 52176,
       "systemcode": "001",
       "name": "Vyankatesh RakeshKumar",
       "homephone": "2223456789",
       "mobileno": "9087612543",
       "workphone": "2221234567"
-    }
-  ],
+	}
+	],
   "AddressDet": [
-    {
-      "AddLine1": " B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
-      "City": "Bangalore",
-      "State": "Karnataka",
-      "Zip": "560066"
-    },
-    {
-      "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
-      "City": "Mumbai",
-      "State": "Maharashtra",
-      "Zip": "421204"
-    },
-    {
-      "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
-      "City": "Delhi",
-      "State": "Delhi",
-      "Zip": "421204"
+        {
+          "AddLine1": " B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+          "City": "Bangalore",
+          "State": "Karnataka",
+          "Zip": "560066"
+        },
+        {
+          "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+          "City": "Mumbai",
+          "State": "Maharashtra",
+          "Zip": "421204"
+        },
+        {
+          "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+          "City": "Delhi",
+          "State": "Delhi",
+          "Zip": "421204"
+        }
+      ]
     }
-  ]
-}
