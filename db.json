@@ -1,13 +1,40 @@
 {
   "AccountDetails": [
     {
-      "AgreementNo": "1",
-      "iAgreementSeqNo": "1",
-      "szOrgCode": "1",
-      "rjilAccountNo": "1",
-      "rjilPartnerId": "1",
-      "BilledOS": "1",
-      "BilledOD": "1"
+      "rjilaccountid": "700000000507",
+      "rjilcustomerid": "10133",
+      "jplaccountid": "209121831163",
+      "jplcustomerid": "2061841122",
+      "rrlaccountid": "400122880708",
+      "rrlcustomerid": "4062937430",
+      "accountseq": 10133,
+      "systemcode": "001",
+      "activedate": null,
+      "inactivedate": null,
+      "ageonnetwork": null,
+      "acctstatus": "",
+      "productoffered": "SMB",
+      "merchantjc": "",
+      "depositamt": null,
+      "fcreditlimit": null,
+      "cycleday": 1,
+      "lastbilleddate": null,
+      "lastbilledamt": null,
+      "lastpaymentdate": null,
+      "lastpaymentamt": null,
+      "paymenttype": "",
+      "lastptpstatus": "",
+      "brokenptpcnt": null,
+      "achmode": "",
+      "osamt": "100.000",
+      "overdueamt": "232.000",
+      "groupcode": "",
+      "collector": "",
+      "workflow": "",
+      "rrlos": null,
+      "rrlod": null,
+      "jplos": null,
+      "jplod": null
     }
   ],
   "BUCKETDETAILS": [
@@ -52,27 +79,27 @@
       "name": "Vyankatesh RakeshKumar",
       "homephone": "2223456789",
       "mobileno": "9087612543",
-      "workphone": "2221234567",
-      "AddressDet": [
-        {
-          "AddLine1": "",
-          "City": "",
-          "State": "",
-          "Zip": ""
-        },
-        {
-          "AddLine1": "",
-          "City": "",
-          "State": "",
-          "Zip": ""
-        },
-        {
-          "AddLine1": "",
-          "City": "",
-          "State": "",
-          "Zip": ""
-        }
-      ]
+      "workphone": "2221234567"
+    }
+  ],
+  "AddressDet": [
+    {
+      "AddLine1": " B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+      "City": "Bangalore",
+      "State": "Karnataka",
+      "Zip": "560066"
+    },
+    {
+      "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Zip": "421204"
+    },
+    {
+      "AddLine1": "B Lore Phase 2, Plot No.157, Whitefield, 2nd Phase, Epip Zone, Bangalore",
+      "City": "Delhi",
+      "State": "Delhi",
+      "Zip": "421204"
     }
   ]
 }
