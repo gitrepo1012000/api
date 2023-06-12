@@ -9,5 +9,16 @@
       "BilledOS": "1",
       "BilledOD": "1"
     }
-  ]
+  ],  
+  "BUCKETDETAILS": [
+  {
+    "sztype": "BUCKET_1", "fbucket0": "174.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
+  },
+  {
+    "sztype": "BUCKET_2", "fbucket0": "185.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
+  },
+  {
+    "sztype": "BUCKET_3", "fbucket0": "196.000", "fbucket1": "0.000", "fbucket2": "0.000", "fbucket3": "0.000", "fbucket4": "0.000", "fbucket5": "0.000", "fbucket6": "0.000", "fbucket7": "0.000"
+  }
+]
 }
