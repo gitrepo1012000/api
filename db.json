@@ -28,6 +28,7 @@
       "achmode": "",
       "osamt": "100.000",
       "overdueamt": "232.000",
+      "thresholdamt": "232.000",
       "groupcode": "",
       "collector": "",
       "workflow": "",
